@@ -10,7 +10,7 @@
   --primary-color: #333333;
 }
 
-#container {
+body, #container {
   width: 100vw;
   height: 100vh;
 }
