@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://wesleygessner.github.io/404-page">
+    <a href="https://wesleygessner.github.io/404-page" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
       Challenge
     </a>
   </h3>
