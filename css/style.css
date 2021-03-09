@@ -63,6 +63,10 @@ header #header-title {
   padding: 20px 50px;
 }
 
+.hero-btn .btn:hover {
+  background-color: #333333de;
+}
+
 
 @media (max-width: 425px) {
     .hero {
